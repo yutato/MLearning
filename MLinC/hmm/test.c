@@ -1,3 +1,10 @@
+/*
+**      Author: yutato.gz@gmail.com
+**      Date:   20 Apire 2019
+**      File:   test.c
+**      Purpose: test main function of HMM. 
+*/
+
 #include <stdio.h>
 #include "hmm.h"
 
@@ -6,6 +13,7 @@ int main(){
     
     static HMM hmm_s;
     char *hmm_model = "t2.hmm";
+    
     hmm_init(&hmm_s, hmm_model);
 
     //int obser_seq[3] = {0,1,0};
