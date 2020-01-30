@@ -12,3 +12,4 @@ add a new line.
 hhhhhh
 new branch dev, add new line.
 test test test 
+merge --no-ff
