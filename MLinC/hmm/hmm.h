@@ -3,6 +3,7 @@
 **      Date:   20 Apire 2019
 **      File:   hmm.h
 **      Purpose: datastructures used for HMM. 
+**      Version: v0.1
 */
 
 #ifndef hmm_h
