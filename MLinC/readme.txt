@@ -1,5 +1,6 @@
 MLinC is a private lib writen by yutato.
 
+MLinC库文件结构
 MLinC
 |
 |--- hmm
@@ -7,10 +8,3 @@ MLinC
 |--- chmm
 |
 |
-
-add a new line.
-hhhhhh
-new branch dev, add new line.
-test test test 
-merge --no-ff
-debug 101
